@@ -1,6 +1,6 @@
 <h2>BloodBank</h2>
 <img src="favicon.ico">
-<h3>A Web-Based Application to Connect Blood Donors to Recipients.</h3>
+<h3>A Web-Based Application to Connect Blood Donors to Recipients</h3>
 
 # Overview
 
